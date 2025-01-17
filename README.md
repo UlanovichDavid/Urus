@@ -10,7 +10,7 @@ _Welcome to my URUS project, it was not made by me personally, but only by examp
 _During the design and development phase of this website, there were many adjustments and changes.  For the first stage and chapters, html and css were applied, and the URUS project was the main source._  [Link to the Source](https://www.figma.com/design/Un7anrsnbo1xA9AJsvZUyq/URUS?node-id=0-1&p=f&t=SnewMdzpnTEwzwaz-0)
 - HERE WIlL BE TEXT
 - HERE WILL BE TEXT
-- HERE WILL BE TEXT
+- HERE WILL BE TEXT  
 TEXT
 # <a id="3">Third Caption</a>
 _Well, the conclusion/end is already underway here, and if you want to see a modified project, I remind you that all the code is in an open repository._  __Photo__
