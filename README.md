@@ -11,6 +11,7 @@ _During the design and development phase of this website, there were many adjust
 - HERE WIlL BE TEXT
 - HERE WILL BE TEXT
 - HERE WILL BE TEXT
-
+TEXT
 # <a id="3">Third Caption</a>
 _Well, the conclusion/end is already underway here, and if you want to see a modified project, I remind you that all the code is in an open repository._  __Photo__
+![banner 2](https://github.com/user-attachments/assets/90cfbc2e-e3c6-4297-b2f2-42fe06ec319d)
